@@ -14,5 +14,5 @@ let fact = (n) => {
     } 
     
     else
-        console.log(3);
+        console.log("Not a number!");
 }
